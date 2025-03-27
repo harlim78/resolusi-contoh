@@ -2,3 +2,4 @@ resolusi apa
 - konsis create 2x 1mg?
 - platform kelola
 - dll TBA
+- tambahan lain
